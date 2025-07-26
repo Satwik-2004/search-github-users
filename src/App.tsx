@@ -1,5 +1,5 @@
 import { useState } from "react"
-import SearchForm from "./components/form/searchform";
+import SearchForm from "./components/form/SearchForm";
 import UserProfile from "./components/users/UserProfile";
 
 function App() {
