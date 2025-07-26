@@ -24,7 +24,7 @@ A modern, responsive web application for searching and exploring GitHub users wi
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.vercel.app) <!-- Replace with your actual demo link -->
+[View Live Demo](https://search-github-users-kappa.vercel.app/) 
 
 ## 🛠️ Tech Stack
 
